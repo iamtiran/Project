@@ -1,3 +1,3 @@
 struct Class {
-    
+    let someProperty = ""
 }
